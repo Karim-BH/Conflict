@@ -1,2 +1,2 @@
-# Conflict
+# REMOTE
 # conflit bis
